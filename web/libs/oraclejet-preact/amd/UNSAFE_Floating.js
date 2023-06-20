@@ -1,0 +1,2 @@
+define(["exports","./Floating-31eefce3","preact/jsx-runtime","preact/hooks","preact/compat","./index-4f4526ef","./hooks/UNSAFE_useUser","./UNSAFE_Environment","preact","./UNSAFE_Layer","./utils/PRIVATE_floatingUtils","./utils/PRIVATE_refUtils","./hooks/UNSAFE_useOutsideClick","./utils/UNSAFE_arrayUtils"],function(e,t,i,s,o,r,a,l,n,u,c,U,_,f){"use strict";e.Floating=t.Floating,Object.defineProperty(e,"__esModule",{value:!0})});
+//# sourceMappingURL=UNSAFE_Floating.js.map

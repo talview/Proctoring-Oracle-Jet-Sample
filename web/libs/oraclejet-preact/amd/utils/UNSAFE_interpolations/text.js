@@ -1,0 +1,2 @@
+define(["exports","css!./text.css","../../keys-83d1523f","../../_curry1-875b461d","../../_has-11a7a18f"],function(t,e,s,i,n){"use strict";const l={start:"dsr9kj",end:"sadyv9",right:"_16ikyto"},r={textAlign:l},a=s.keys_1(l),d={textAlign:({textAlign:t})=>void 0===t?{}:{class:l[t]}};t.textAlignStyles=l,t.textAligns=a,t.textInterpolations=d,t.textStyles=r,Object.defineProperty(t,"__esModule",{value:!0})});
+//# sourceMappingURL=text.js.map

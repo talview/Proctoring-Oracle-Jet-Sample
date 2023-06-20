@@ -1,0 +1,2 @@
+define(["exports","./FocusTrap-94dc8805","preact/jsx-runtime","preact","preact/compat","./utils/UNSAFE_classNames","./classNames-429bf434","css!./UNSAFE_FocusTrap.css","./utils/PRIVATE_tabbableUtils","./_curry1-875b461d","./_curry2-ad2c6a81","./_curry3-512d483b"],function(a,e,r,c,s,t,u,i,l,p,o,b){"use strict";a.FocusTrap=e.FocusTrap,Object.defineProperty(a,"__esModule",{value:!0})});
+//# sourceMappingURL=UNSAFE_FocusTrap.js.map

@@ -1,0 +1,2 @@
+define(["exports","./VirtualizedCollection-91797029","preact/jsx-runtime","preact/hooks","./PRIVATE_Collection","./Collection-a530cc1c","preact","./utils/UNSAFE_arrayUtils","./hooks/UNSAFE_useViewportIntersect"],function(e,t,i,o,r,l,c,a,n){"use strict";e.PLACEHOLDER_STYLE_CLASS=t.PLACEHOLDER_STYLE_CLASS,e.VirtualizedCollection=t.VirtualizedCollection,e.getVirtualizedRangeExtractor=t.getVirtualizedRangeExtractor,Object.defineProperty(e,"__esModule",{value:!0})});
+//# sourceMappingURL=PRIVATE_VirtualizedCollection.js.map
