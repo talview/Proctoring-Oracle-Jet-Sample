@@ -1,5 +1,5 @@
 ## Oracle jet integrated with Proview client
-
+Note: Please run the application using port 8080.
 ## Installation and Setup Instructions
 
 #### Example:  
@@ -20,4 +20,4 @@ Clone down this repository. You will need `node` and `npm` installed globally on
 
 To Visit App:
 
-`http://localhost:8000/`  
+`http://localhost:8080/`  
